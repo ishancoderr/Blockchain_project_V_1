@@ -1,0 +1,19 @@
+{
+  "name": "blockchain_project_v_1",
+  "version": "1.0.0",
+  "description": " A blockchain project to demonstrate blockchain functionality",
+  "main": "blockchain.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/username/blockchain_project_v_1.git"
+  },
+  "author": "Ishan Thathsara Weerakoon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/username/blockchain_project_v_1/issues"
+  },
+  "homepage": "https://github.com/username/blockchain_project_v_1#readme"
+}
